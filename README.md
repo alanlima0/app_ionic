@@ -19,7 +19,7 @@ Bem-vindo ao *ProntuárioPRO*, uma solução completa para médicos gerenciarem 
 
 Aqui estão algumas capturas de tela para você ter uma ideia de como o aplicativo funciona:
 
-![Tela de Agendamento](app_ionic/print1.jpeg)
+![Tela de Agendamento](print1.jpeg)
 ![Tela de Cadastro](path/to/screenshot-record.png)
 
 ## 🎥 Vídeo Demonstrativo
