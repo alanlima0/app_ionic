@@ -26,4 +26,4 @@ Aqui estão algumas capturas de tela para você ter uma ideia de como o aplicati
 
 Assista ao vídeo abaixo para ver o aplicativo em ação:
 
-[![Watch the video](path/to/video-thumbnail.png)](https://youtu.be/2KeY2RYqFto)
+[![Watch the video](print3.png)](https://youtu.be/2KeY2RYqFto)
