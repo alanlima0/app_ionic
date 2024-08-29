@@ -20,10 +20,10 @@ Bem-vindo ao *ProntuárioPRO*, uma solução completa para médicos gerenciarem 
 Aqui estão algumas capturas de tela para você ter uma ideia de como o aplicativo funciona:
 
 ![Tela de Agendamento](print1.jpeg)
-![Tela de Cadastro](path/to/screenshot-record.png)
+![Tela de Cadastro](print2.jpeg)
 
 ## 🎥 Vídeo Demonstrativo
 
 Assista ao vídeo abaixo para ver o aplicativo em ação:
 
-[![Watch the video](path/to/video-thumbnail.png)](path/to/video.mp4)
+[![Watch the video](path/to/video-thumbnail.png)](https://youtu.be/2KeY2RYqFto)
